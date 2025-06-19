@@ -10,8 +10,7 @@ Toast like Apple APN top toast.
 The effect:
 
 #### Top toast
-![top toast](assets/top-toast.png)
-
+<img src="assets/top-toast.png" alt="预览图" width="600" heigh = "1278"/>
 
 #### Top toast
 ![bottom toast](assets/bottom-toast.png)
