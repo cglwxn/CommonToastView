@@ -9,6 +9,9 @@ Toast like Apple APN top toast.
 
 The effect:
 
+#### Top toast
 ![top toast](assets/top-toast.png)
 
+
+#### Top toast
 ![bottom toast](assets/bottom-toast.png)
