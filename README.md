@@ -13,5 +13,5 @@ The effect:
 <img src="assets/top-toast.png" alt="预览图" width="414" heigh = "798"/>
 
 
-#### Top toast
+#### Bottom toast
 <img src="assets/bottom-toast.png" alt="预览图" width="414" heigh = "798"/>
